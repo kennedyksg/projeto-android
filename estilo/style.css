@@ -50,7 +50,7 @@ header {
 }
 
 header > h1 {
-    margin-bottom: 20px;
+    padding-bottom: 30px;
     font-family: var(--font-destaque);
     font-weight: normal;
     color: white;
@@ -90,7 +90,7 @@ nav > a:hover {
 }
 
 main {
-    min-width: 300px;
+    min-width: 320px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
